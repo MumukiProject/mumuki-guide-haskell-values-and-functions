@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: previousTimesThree
+  inspection: HasBinding
+- binding: previousTimesThree
+  inspection: HasComposition
+- binding: previousTimesThree
+  inspection: HasUsage:timesThree
+- binding: previousTimesThree
+  inspection: HasUsage:previous
