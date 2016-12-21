@@ -1,0 +1,5 @@
+Copyright Franco Bulgarelli and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumuki/mumuki-guide-haskell-values-and-functions and the AUTHORS.txt file.
