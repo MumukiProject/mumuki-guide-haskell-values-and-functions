@@ -1,0 +1,1 @@
+If you have experience with languages like `C` or `Java`, we have good news for you: Haskell is smart enough to automatically handle precision in most cases.
