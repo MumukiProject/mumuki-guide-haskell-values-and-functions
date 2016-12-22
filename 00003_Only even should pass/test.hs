@@ -6,4 +6,4 @@ describe "onlyEvenNumbers" $ do
     onlyEvenNumbers [1, 2, 3] `shouldBe` [2]
 
   it "[7, 14, 9, 10] is [14, 10]" $ do
-    previousTimesThree [7, 14, 9, 10] `shouldBe` [14, 10]
+    onlyEvenNumbers [7, 14, 9, 10] `shouldBe` [14, 10]
